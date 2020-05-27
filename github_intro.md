@@ -47,7 +47,7 @@ These steps are required every time you want to collaborate on a new repository.
 ### Forking and Cloning Steps
     
 1. Go to the repository you want to fork: [here](https://github.com/nkelley-uga/github_tutorial)
-2. Click **Fork** in the upper right.
+2. Click **Fork** in the upper right (and wait).
 3. Go to your fork: ```https://github.com/<your-username>/github_tutorial```
 4. Clone your fork:
     * click the green button that reads *Clone or download*
