@@ -94,6 +94,18 @@ In addition to your local clone, keep a separate folder (your "sandbox") where y
     
 ---
     
+# Undo Undo Undo
+    
+1. If you haven't committed yet: ```$ git checkout```
+2. If you have committed: ```$ git reset```
+```
+$ git commit -m "added file, updated README"
+$ git log (shows SHA of past commit)
+$ git reset --hard <SHA> (erases change from this commit)
+```
+    
+---
+    
 # Some Useful Links
     
 * [GitHub Desktop](https://desktop.github.com/)
